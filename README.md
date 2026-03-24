@@ -5,7 +5,7 @@ Cybersecurity Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/scott-j-taylor23)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<Scootie23>)
-[![LabEx.io](https://github.com/user-attachments/assets/21581b5b-0f95-49e9-8bd9-de1731c88167")](https://labex.io/u/scootie23-47263625))
+[![LabEx.io](https://labex.io/labex-logo-dark.svg)](https://labex.io/u/scootie23-47263625)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/ScottTaylor23)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<scott.j.taylor23@proton.me>)
 
