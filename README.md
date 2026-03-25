@@ -1,7 +1,7 @@
 # Portfolio
-Cybersecurity Portfolio
+
 # 🛡️ Scott Taylor
-## 👩‍💻 CYBERSECURITY ANALYST | Threat Detection | Incident Response | Network Defense
+## 👩‍💻 CYBERSECURITY ANALYST | Threat Detection | Incident Response | Network Defense | Penetration Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/scott-j-taylor23)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<Scootie23>)
