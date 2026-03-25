@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/scott-j-taylor23)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<Scootie23>)
 [![LabEx.io](https://img.shields.io/badge/LabEx-Profile-teal)](https://labex.io/u/scootie23-47263625)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/ScottTaylor23)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://profile.hackthebox.com/profile/019d1014-288f-7072-9456-a0ee4f59aaec)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<scott.j.taylor23@proton.me>)
 
 ---
