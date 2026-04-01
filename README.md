@@ -61,9 +61,9 @@ Created detection rules for brute-force and beaconing behavior mapped to **MITRE
 ---
 
 ### 2. [**Enterprise Network Security Lab**](ent-network-sec.md)
-**Skills:** Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
+**Skills:** Azure Virtual Network, Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
 
-Deployed a **multi-segment network** secured by pfSense and Suricata to simulate enterprise traffic and IDS detections.  
+Deployed a **virtual multi-segment network** secured by pfSense and Suricata to simulate enterprise traffic and IDS detections.  
 Implemented **OpenVPN** for secure remote access.  
 
 **Key Achievements:**  
@@ -71,7 +71,7 @@ Implemented **OpenVPN** for secure remote access.
 - Tuned IDS signatures for accuracy  
 - Created topology diagram and baseline documentation  
 
-**Tools:** pfSense, Suricata, Wireshark, GNS3  
+**Tools:** Azure, pfSense, Suricata, Wireshark, GNS3  
 
 ---
 
@@ -121,15 +121,14 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 
 ### Systems & Virtualization  
 - **Operating Systems:** Kali Linux, Ubuntu, Windows Server  
-- **Platforms:** VirtualBox, VMware, Proxmox  
+- **Platforms:** Azure, VirtualBox, VMware, Proxmox
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 TryHackMe: Completed SOC Level 1 Path  
-- 🏅 National Cyber League (NCL): Top 10% Scorer  
-- 🎓 Completed Cybersecurity Fellowship / Bootcamp  
+- 🏅 National Cyber League (NCL):  
+- 🎓 Completed 
 - 🧠 Created personal **Home SOC Lab** for continuous learning  
 
 ---
@@ -143,9 +142,9 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 - SOC Analyst Tier 2 Techniques  
 
 **Recent Courses:**  
-- Google Cybersecurity Professional Certificate  
-- SANS SEC401 – Security Essentials  
-- TryHackMe Blue Team Path  
+-  
+- 
+- H
 
 ---
 
@@ -154,7 +153,6 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 📧 **Email:** [<youremail>@gmail.com](mailto:<youremail>@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/<yourlinkedin>](https://linkedin.com/in/<yourlinkedin>)  
 💻 **GitHub:** [github.com/<yourgithub>](https://github.com/<yourgithub>)  
-🔐 **TryHackMe:** [tryhackme.com/p/<yourtryhackme>](https://tryhackme.com/p/<yourtryhackme>)  
 🧩 **HackTheBox:** [hackthebox.com/home/users/profile/<yourid>](https://hackthebox.com/home/users/profile/<yourid>)  
 
 ---
