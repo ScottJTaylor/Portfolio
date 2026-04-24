@@ -45,7 +45,7 @@ My goal is to **strengthen organizational resilience** through proactive monitor
 
 ## 🎯 Featured Projects  
 
-### 1. [**SOC Threat Detection Lab**](soc-threat-detection.md)
+### 1. [**SOC Threat Detection Lab**](https://github.com/ScottJTaylor/SOC-Threat-Detection-Lab)
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection  
 
 Built a **Splunk-based SIEM** to monitor Windows and network logs for malicious activity.  
