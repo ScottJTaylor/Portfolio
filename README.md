@@ -1,7 +1,8 @@
 # Portfolio
 
 # 🛡️ Scott Taylor
-## 👩‍💻 CYBERSECURITY ANALYST | Threat Detection | Incident Response | Network Defense | Penetration Testing
+## 👩‍💻 CYBERSECURITY & NETWORK SPECIALIST
+### Network Infrastucture | Virtual Networking | Network Defense | Threat Detection | Incident Response | Penetration Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/scott-j-taylor23)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<Scootie23>)
@@ -14,11 +15,11 @@
 
 ## 👋 About Me  
 
-I’m an aspiring **Cybersecurity Analyst** passionate about **protecting systems, investigating threats, and responding to incidents** in real and simulated environments.  
+I’m an aspiring **Network & Cybersecurity Specialist** passionate about **building networks, protecting systems, investigating threats, and responding to incidents** in real and simulated environments.  
 
-With hands-on experience in **SIEM monitoring, intrusion detection, and vulnerability assessment**, I specialize in analyzing log data, correlating alerts, and identifying suspicious activities across hybrid infrastructures.  
+With hands-on experience in **Networking, SIEM monitoring, intrusion detection, and vulnerability assessment**, I specialize in analyzing network managemnent, log data, correlating alerts, and identifying suspicious activities across hybrid infrastructures.  
 
-I enjoy turning raw data into actionable security insights and continuously learning new tools, frameworks, and methodologies to stay ahead of modern cyber threats.  
+I enjoy turning raw data into actionable insights and continuously learning new tools, frameworks, and methodologies to stay informed and ahead of modern emerging technologies and treats.  
 
 My goal is to **strengthen organizational resilience** through proactive monitoring, automation, and a well-documented incident response process.  
 
@@ -56,10 +57,10 @@ Created detection rules for brute-force and beaconing behavior mapped to **MITRE
 - Developed dashboards for login and network monitoring  
 - Reduced false positives by 45% through rule tuning  
 
-**Tools:** Splunk, Sysmon, Zeek, Python SDK  
+**Tools:** Splunk, Sysmon, VMware
 
 ---
-
+<!--
 ### 2. [**Enterprise Network Security Lab**](ent-network-sec.md)
 **Skills:** Azure Virtual Network, Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
 
