@@ -60,22 +60,24 @@ Created detection rules for brute-force and beaconing behavior mapped to **MITRE
 **Tools:** Splunk, Sysmon, VMware
 
 ---
-<!--
-### 2. [**Enterprise Network Security Lab**](ent-network-sec.md)
-**Skills:** Azure Virtual Network, Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
 
-Deployed a **virtual multi-segment network** secured by pfSense and Suricata to simulate enterprise traffic and IDS detections.  
-Implemented **OpenVPN** for secure remote access.  
+### 2. [**Home Network & Server Build**](https://github.com/ScottJTaylor/Home-Network)
+**Skills:** Wired & Virtual Network, Network Segmentation,Virtualization, Firewall Configuration, IDS/IPS, VPN Setup, CCTV w/ AI, Data Backup
 
-**Key Achievements:**  
-- Reduced attack surface by 70%  
-- Tuned IDS signatures for accuracy  
-- Created topology diagram and baseline documentation  
+Deployed a complete **home server and network with CCTV** designed for security, scalability, and self-hosted services. The system is built around Proxmox VE as the hypervisor, OPNsense as the firewall, and Frigate NVR for AI-powered CCTV — all connected via **structured Cat6A cabling with strict VLAN segmentation**.  
 
-**Tools:** Azure, pfSense, Suricata, Wireshark, GNS3  
+**Key Achievements:** 
+- Cameras isolated on VLAN 20 — no internet access, can only communicate with Frigate NVR container
+- ZFS storage backend — data integrity, snapshots, and easy rollbacks via Proxmox
+- Google Coral USB TPU — offloads AI inference from CPU at scale
+- 48-port patch panel — all 12 camera runs and 8 room runs pre-allocated with room to grow
+- WireGuard VPN — remote access without any open inbound ports
+- 3-2-1 backup rule — local ZFS + offsite Backblaze B2 via Duplicati/Restic
+
+**Tools:** Proxmox VE, OPNsense, Frigate NVR Home Assistant, Pi-hole, WireGuard, Nginx, Proxy Manager, Grafana, InfluxDB, Prometheus, Vaultwarden, Nextcloud, Docker, ZFS, Cat6A, 802.1Q, VLANs, PoE, 802.3at, ONVIF
 
 ---
-
+<!--
 ### 3. [**Incident Response Simulation – Phishing Attack**](incident-response.md)
 **Skills:** Incident Response, Email Analysis, Threat Containment  
 
