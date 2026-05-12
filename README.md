@@ -27,7 +27,7 @@ My goal is to **strengthen organizational resilience** through proactive monitor
 
 ## 🤯 Technical Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,kali,azure,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,kali,azure,git,github,docker,nginx)](https://skillicons.dev)
 
 **Core Competencies**  
 - Security Operations & Threat Analysis  
