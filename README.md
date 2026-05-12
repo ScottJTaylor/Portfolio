@@ -62,7 +62,7 @@ Created detection rules for brute-force and beaconing behavior mapped to **MITRE
 ---
 
 ### 2. [**Home Network & Server Build**](https://github.com/ScottJTaylor/Home-Network)
-**Skills:** Wired & Virtual Network, Network Segmentation,Virtualization, Firewall Configuration, IDS/IPS, VPN Setup, CCTV w/ AI, Data Backup
+**Skills:** Wired & Virtual Network, Segmentation, Virtualization, Firewall Configuration, IDS/IPS, VPN Setup, CCTV, AI,  Remote Access, Data Backup
 
 Deployed a complete **home server and network with CCTV** designed for security, scalability, and self-hosted services. The system is built around Proxmox VE as the hypervisor, OPNsense as the firewall, and Frigate NVR for AI-powered CCTV — all connected via **structured Cat6A cabling with strict VLAN segmentation**.  
 
